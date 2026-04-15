@@ -1,0 +1,7 @@
+openai-whisper
+pyannote.audio
+groq
+torch
+torchaudio
+pydub
+fpdf2

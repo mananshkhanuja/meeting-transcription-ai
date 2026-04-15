@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Sensitive API Keys
+.env
+
+# Data and Outputs (Don't upload massive files)
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.swp
